@@ -10,16 +10,18 @@ td {
     text-align: center;
     font-size: 50px;
     color:black;
-    border-style:double;
+    
     
 }
 #btn1 {
+    background-color: #1b8ab6;
     position: absolute;
     left: 570px;
     top: 120px;
     padding: 4px 12px;
 }
 #btn2 {
+    background-color: #1b8ab6;
     position: absolute;
     left: 670px;
     top :120px;
